@@ -1,0 +1,31 @@
+{
+  "name": "three-fpecontrols",
+  "version": "1.0.0",
+  "description": "First Person Controls for three.js inspired by Unity's scene editor controls",
+  "main": "FirstPersonEditorControls.js",
+  "module": "FirstPersonEditorControls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescomazzella/FirstPersonEditorControls-three.js.git"
+  },
+  "keywords": [
+    "three",
+    "three.js",
+    "controls",
+    "FirstPersonControls",
+    "camera",
+    "FirstPerson",
+    "three",
+    "javascript",
+    "js"
+  ],
+  "author": "Francesco Mazzella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francescomazzella/FirstPersonEditorControls-three.js/issues"
+  },
+  "homepage": "https://github.com/francescomazzella/FirstPersonEditorControls-three.js#readme"
+}
