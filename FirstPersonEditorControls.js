@@ -280,4 +280,4 @@ class FirstPersonEditorControls {
 
 }
 
-module.exports = { FirstPersonEditorControls };
+exports.FirstPersonEditorControls = FirstPersonEditorControls;
