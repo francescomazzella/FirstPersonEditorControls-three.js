@@ -1,6 +1,6 @@
 {
   "name": "three-fpecontrols",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "First Person Controls for three.js inspired by Unity's scene editor controls",
   "main": "FirstPersonEditorControls.js",
   "module": "FirstPersonEditorControls.js",
